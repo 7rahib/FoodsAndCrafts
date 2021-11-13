@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079812173354",
+    "project_id": "foodsandcrafts-e63a3",
+    "storage_bucket": "foodsandcrafts-e63a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079812173354:android:762e62531f722d1b839d53",
+        "android_client_info": {
+          "package_name": "com.example.foodsandcrafts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079812173354-vc5mjjs7vfbdu88m294lf0o99u3s8gk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvCqYpve2SQ-jbrSxBr65kehJzEtvpv6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079812173354-vc5mjjs7vfbdu88m294lf0o99u3s8gk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
